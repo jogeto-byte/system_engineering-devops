@@ -1,3 +1,2 @@
-#!/usr/bin/env bash
-# Add execute permission to all subdirectories for everyone (directories only)
+#!/bin/bash
 chmod -R a+X .
