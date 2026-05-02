@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# Set permissions of hello to -------rwx
+chmod 007 hello
