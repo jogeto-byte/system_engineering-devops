@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# Print the effective username of the current user
+whoami
