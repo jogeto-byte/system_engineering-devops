@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# Change the owner of the file hello to betty
+chown betty hello
