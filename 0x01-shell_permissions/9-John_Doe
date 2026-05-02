@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# Set permissions of hello to -rwxr-x-wx
+chmod 753 hello
